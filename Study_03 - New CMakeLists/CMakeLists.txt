@@ -12,7 +12,10 @@ find_opengl()
 
 build_plugin()
 
-
+# COPY .bundle to the plugins folder
 add_custom_command(TARGET myPluginCMake
                    POST_BUILD
                    COMMAND ${CMAKE_COMMAND} -E copy $<TARGET_FILE:myPluginCMake> "${PROJECT_BINARY_DIR}/../../../plugins")
+
+
+                   
