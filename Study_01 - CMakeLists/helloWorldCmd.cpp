@@ -28,6 +28,7 @@
 
 #include <maya/MIOStream.h>
 #include <maya/MSimple.h>
+#include <maya/MFnPlugin.h>
 
 // Use a Maya macro to setup a simple helloWorld class
 // with methods for initialization, etc.

@@ -1,0 +1,3 @@
+/Users/ivastival/OneDrive/Developer/Maya/Maya_Study/src/Study_02 - First Plugin/build/CMakeFiles/rebuild_cache.dir
+/Users/ivastival/OneDrive/Developer/Maya/Maya_Study/src/Study_02 - First Plugin/build/CMakeFiles/edit_cache.dir
+/Users/ivastival/OneDrive/Developer/Maya/Maya_Study/src/Study_02 - First Plugin/build/CMakeFiles/cgcircuitproject.dir
